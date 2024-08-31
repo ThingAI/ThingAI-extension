@@ -1,5 +1,5 @@
 // == Harness the power of ThingAI ==
-// Made by Wisienki2ie, Original By MubiLop
+// Made by Crypitd, Original By MubiLop
 // Only tested on PenguinMod.
 
 (function(Scratch) {
