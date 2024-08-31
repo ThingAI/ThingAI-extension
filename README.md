@@ -1,2 +1,2 @@
 # ThingAI-extension
-This gonna be the extension and whatnot
+This gonna the extension and whatnot
